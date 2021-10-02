@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import "./style.scss"
 import logo from "./images/todo-illustration.svg"
 import { AiOutlinePlus } from 'react-icons/ai';
-import { FcTodoList } from 'react-icons/fc';
 import { BsCheckAll, BsCheckCircle } from 'react-icons/bs';
 
 const data = [
